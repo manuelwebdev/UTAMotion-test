@@ -33,6 +33,7 @@
     }
   }
 //   comment
+//  comment2
 </script>
 
 <style scoped>
